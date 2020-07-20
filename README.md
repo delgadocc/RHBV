@@ -1,2 +1,2 @@
 # JSTAR
-Machine Learning Assisted Rice Hoja Blanca Disease Phenotyping using Multispectral UAV Imagery
+Rice Hoja Blanca Virus Phenotyping using Machine Learning from UAV Multispectral Imagery
